@@ -1,15 +1,15 @@
 
 
 {
-   "name": "Astro-Md",
-   "version": "0.0.6",
+   "name": "DARK-NA-Md",
+   "version": "0.0.1",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
    "type": "commonjs",
    "license": "GPL-3.0",
 "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name astro",
-    "stop": "pm2 stop astro"
+    "start": "pm2 start index.js --deep-monitoring --attach --name dark-na",
+    "stop": "pm2 stop dark-na"
     },
 "repository": {
 "type": "git",
@@ -18,8 +18,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
+"author": "Nilambara",
+"developer": "Nilambara",
 "license": "GPL-3.0-or-later",
 "homepage": "https://github.com/",
 "dependencies": {
