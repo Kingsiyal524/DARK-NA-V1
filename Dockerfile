@@ -5,9 +5,9 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-WORKDIR /astro
+WORKDIR /darkna
 
-COPY . /astro
+COPY . /darkna
 
 RUN yarn
 
