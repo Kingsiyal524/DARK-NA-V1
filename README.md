@@ -10,5 +10,6 @@
 4. ***[Deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/acedemy/DARK-NA-V1&branch=main&env[FOOTER]=DARK-NA-MD&env[CAPTION]=*By%20DARK-NA-MD*&env[ONLY_GROUP]=false&env[SESSION_ID]&env[PORT]=8000&ports=8000;http;/).*** ***[[Tutorial]](https://youtu.be/-gkhE0byFEs)*** <br>
 
 
-***Star ⭐ repo if you like DARK NA.***<br>
-THANK VIHANGA YT
+***Star ⭐ repo if you like DARK NA.***<br><br>
+
+<a href = "">THANK VIHANGA YT SUB FOR YT</a>
